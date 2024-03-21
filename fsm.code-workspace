@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"dtype",
+			"lidars",
+			"ndarray",
+			"Ppmm",
+			"smslib"
+		],
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.black-formatter"
+		},
+		"python.formatting.provider": "none",
+		"python.defaultInterpreterPath": "/home/k12/work/pyenv/qlm2/bin/python3",
+		"makefile.buildBeforeLaunch": false,
+		"go.formatTool": "gofumpt",
+		"go.buildTags": "",
+		"markdown.extension.tableFormatter.enabled": true,
+		"markdown.extension.toc.slugifyMode": "github",
+		"markdown.extension.tableFormatter.normalizeIndentation": true,
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one",
+		"markdown.extension.tableFormatter.delimiterRowNoPadding": true,
+		"[markdown]": {
+			"editor.defaultFormatter": "yzhang.markdown-all-in-one"
+		}
+	}
+}
